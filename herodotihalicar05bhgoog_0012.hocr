@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./herodotihalicar05bhgoog_0012.png"; bbox 0 0 758 1281; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 114 359 589 380">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 114 359 589 380">
+     <span class='ocr_line' id='line_1_1' title="bbox 114 359 589 380; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 114 361 184 380; x_wconf 89' lang='grc' dir='ltr'><strong>’ῙῸΙΣ</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 198 359 320 379; x_wconf 72' lang='grc' dir='ltr'><strong>ΕΛΛΗΣΣΝ</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 336 360 589 380; x_wconf 76' lang='grc' dir='ltr'>ΑΠΕΛΕΤΘΕΡΩΘΕΙΣΙ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 335 441 373 454">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 335 441 373 454">
+     <span class='ocr_line' id='line_1_2' title="bbox 335 441 373 454; baseline 0 0"><span class='ocrx_word' id='word_1_4' title='bbox 335 441 373 454; x_wconf 73' lang='grc' dir='ltr'>ΤΗΝ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 73 513 630 533">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 73 513 630 533">
+     <span class='ocr_line' id='line_1_3' title="bbox 73 513 630 533; baseline 0 -1"><span class='ocrx_word' id='word_1_5' title='bbox 73 514 129 533; x_wconf 67' lang='lat' dir='ltr'>&#39;HE</span> <span class='ocrx_word' id='word_1_6' title='bbox 141 513 265 533; x_wconf 79' lang='grc' dir='ltr'><strong>ΠΑΛΑῙΑΣ</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 278 513 492 533; x_wconf 73' lang='grc' dir='ltr'>ΕΛΕΤΘΕΡΩΣΕΩΣ</span> <span class='ocrx_word' id='word_1_8' title='bbox 505 513 630 533; x_wconf 80' lang='grc' dir='ltr'>ΙΣΤΟΡΙΑΝ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 284 598 430 617">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 284 598 430 617">
+     <span class='ocr_line' id='line_1_4' title="bbox 284 598 430 617; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 284 598 409 617; x_wconf 75' lang='grc' dir='ltr'>ΑΝΕΘΗΞΚΑ</span> <span class='ocrx_word' id='word_1_10' title='bbox 412 598 430 617; x_wconf 89' lang='lat' dir='ltr'>N</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 227 757 483 778">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 227 757 483 778">
+     <span class='ocr_line' id='line_1_5' title="bbox 227 757 483 778; baseline -0.008 0"><span class='ocrx_word' id='word_1_11' title='bbox 227 758 258 778; x_wconf 94' lang='lat'>01</span> <span class='ocrx_word' id='word_1_12' title='bbox 274 757 483 777; x_wconf 82' lang='grc' dir='ltr'>ΕΚΔΙΔΟΝΤΕΣ.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
